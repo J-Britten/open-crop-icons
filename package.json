@@ -4,9 +4,6 @@
   "description": "Icon set of commonly cultivated plants",
   "private": true,
   "main": "index.js",
-  "files": [
-    "."
-  ],
   "keywords": [
     "icon",
     "svg",
